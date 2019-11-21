@@ -1,0 +1,29 @@
+/* Add your own styles */
+
+#header{
+    font-weight: bolder;
+    color: white;
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+
+#first{
+    background-color: rgb(7, 106, 145);
+    height: 100px;
+}
+
+#second{
+    background-color: #d3d3d3;
+    height: 200px;
+}
+
+#paragraph{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+#third{
+    border-bottom: 2px black;
+}
